@@ -1,6 +1,5 @@
 ---
 title:  "佛教与进化心理学的碰撞"
-title:  "人生算法V01"
 date:   2018-04-12 12:00:00
 author: "Evan"
 category: "随笔"

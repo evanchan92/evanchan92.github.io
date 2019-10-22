@@ -11,6 +11,8 @@ header-img: "img/post-bg-2015.jpg"
 subtitle:   " \"Hello World, Hello Blog\""
 header-img: "img/post-bg-2015.jpg"
 ---
+
+
 曾点，又名曾皙，孔子弟子，孔门七十二贤人之一。
 
 阳明年少时，师从曾祖父王杰，学儒家”曾点气象”，学者能见得”曾点意思”，将洒然无入而不自得，爵禄之无动于中，不足言也。
