@@ -8,7 +8,6 @@ tags:
 layout:     post
 description: "生活种种"
 header-img: "img/post-bg-2015.jpg"
-subtitle:   " \"Hello World, Hello Blog\""
-header-img: "img/post-bg-2015.jpg"
+
 ---
 https://dynalist.io/d/pk_dg1Afx7ik2zGPh5mvkiHM#z=ShZwGOG1xY3w-Qdf3CJzYZbx

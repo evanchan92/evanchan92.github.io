@@ -6,10 +6,8 @@ author: "Evan"
 category: "随笔"
 tags:
     - 成长
-layout:     post
+layout: post
 description: "生活种种"
-header-img: "img/post-bg-2015.jpg"
-subtitle:   " \"Hello World, Hello Blog\""
 header-img: "img/post-bg-2015.jpg"
 ---
 

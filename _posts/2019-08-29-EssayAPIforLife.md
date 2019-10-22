@@ -1,3 +1,17 @@
+---
+
+title: "接口意识"
+date:   2018-04-12 12:00:00
+author: "Evan"
+category: "随笔"
+tags:
+    - 成长
+layout:     post
+description: "生活种种"
+header-img: "img/post-bg-2015.jpg"
+
+---
+
 ## 避免成为挖坑大王，你需要练习「接口意识」
 
 ### 最近挖了个坑

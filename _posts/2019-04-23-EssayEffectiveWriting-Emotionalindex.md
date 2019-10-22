@@ -8,9 +8,8 @@ tags:
 layout:     post
 description: "生活种种"
 header-img: "img/post-bg-2015.jpg"
-subtitle:   " \"Hello World, Hello Blog\""
-header-img: "img/post-bg-2015.jpg"
 
+---
 
 ### 有效商务写作：提升情感指数，让"别人"变成"自己人"
 
