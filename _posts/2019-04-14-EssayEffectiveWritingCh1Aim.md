@@ -1,6 +1,5 @@
-
 ---
-title: "有效商务写作"
+title: "有效商务写作之明确写作目的"
 date:   2018-04-12 12:00:00
 author: "Evan"
 category: "随笔"
