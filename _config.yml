@@ -1,26 +1,101 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: 陈晨Evan的网志
+SEOTitle: 陈晨Evan的网志
+header-img: img/home-bg.jpg
+email:
+description: ""
+keyword: ""
+url: "http://evanchan92.github.io"              # your host, for absolute URL
+baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
 
-# Setup
-title:            Evan
-tagline:
-description:      记录成长点滴
-url:              
-baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# SNS settings
+RSS: true
+#weibo_username:
+#zhihu_username:
+github_username:    evanchan92
+#twitter_username:
+#facebook_username:
+wechat_username:    18610319282
 
-paginate:         5
 
-# Custom vars
-version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 5   # 每页展示多少篇文档
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# Disqus settings
+#disqus_username: _your_disqus_short_name_
+
+# Duoshuo settings
+duoshuo_username:
+# Share component is depend on Comment so we can NOT use share only.
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+
+
+
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
+
+
+
+# Sidebar settings 边栏相关设置
+sidebar: true                           # 是否使用边栏
+sidebar-about-description: "记录点滴成长。"
+sidebar-avatar: "https://forpics-1259404362.cos.ap-beijing.myqcloud.com/HaHGE4.jpg"
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Friends
+friends: [
+    {
+        title: "开智学堂",
+        href: "http://m.openmindclub.com"
+    },{
+        title: "Foo",
+        href: "#"
+    },{
+        title: "Bar",
+        href: "#"
+    },{
+        title: "Example Friends",
+        href: "#"
+    },{
+        title: "It helps SEO",
+        href: "#"
+    }
+]

@@ -1,6 +1,15 @@
 ---
 title: "打败习得性无助"
-date:  2018-12-08
+date:   2018-04-12 12:00:00
+author: "Evan"
+category: "随笔"
+tags:
+    - 成长
+layout:     post
+description: "生活种种"
+header-img: "img/post-bg-2015.jpg"
+subtitle:   " \"Hello World, Hello Blog\""
+header-img: "img/post-bg-2015.jpg"
 ---
 
 

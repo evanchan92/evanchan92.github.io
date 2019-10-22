@@ -1,6 +1,15 @@
 ---
 title:  "夜读洪业先生谈杜子美"
-date:   2018-12-07
+date:   2018-04-12 12:00:00
+author: "Evan"
+category: "随笔"
+tags:
+    - 成长
+layout:     post
+description: "生活种种"
+header-img: "img/post-bg-2015.jpg"
+subtitle:   " \"Hello World, Hello Blog\""
+header-img: "img/post-bg-2015.jpg"
 ---
 
 
@@ -53,7 +62,7 @@ date:   2018-12-07
 
 最后，洪业先生这样评价杜甫的一生：
 
-> 据说诗人的生活通常是三个 “W” 组成，酒（Wine），女人（Woman）和文字 （Words）。其他诗人可能如此，但杜甫不是。杜甫的三个 “W” 是：忧虑（Worry），酒（Wine）和文字（Words）······ 
+> 据说诗人的生活通常是三个 “W” 组成，酒（Wine），女人（Woman）和文字 （Words）。其他诗人可能如此，但杜甫不是。杜甫的三个 “W” 是：忧虑（Worry），酒（Wine）和文字（Words）······
 
 难怪译者曾祥波先生说:
 

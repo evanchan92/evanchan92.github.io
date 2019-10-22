@@ -1,6 +1,15 @@
 ---
 title:  "也谈曾点气象与今日儒家信仰"
-date:   2019-01-02
+date:   2018-04-12 12:00:00
+author: "Evan"
+category: "随笔"
+tags:
+    - 成长
+layout:     post
+description: "生活种种"
+header-img: "img/post-bg-2015.jpg"
+subtitle:   " \"Hello World, Hello Blog\""
+header-img: "img/post-bg-2015.jpg"
 ---
 曾点，又名曾皙，孔子弟子，孔门七十二贤人之一。
 
@@ -102,4 +111,3 @@ date:   2019-01-02
 
 
 **以有涯之年，累万世之功，修己安人，其乐何穷？**
-

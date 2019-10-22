@@ -1,6 +1,15 @@
 ---
 title:  "发现个人优势与人格特质"
 date:   2018-06-02
+author: Evan
+category: "随笔"
+tags:
+    - 成长
+layout:     post
+description: "人生特质"
+header-img: "img/post-bg-2015.jpg"
+layout:  post
+header-img: "img/post-bg-2015.jpg"
 ---
 
 ### 人格特质
