@@ -60,18 +60,16 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id:
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 # Sidebar settings 边栏相关设置
 sidebar: true                           # 是否使用边栏
 sidebar-about-description: "记录点滴成长。"
-sidebar-avatar: "https://forpics-1259404362.cos.ap-beijing.myqcloud.com/HaHGE4.jpg"
-
+sidebar-avatar: https://forpics-1259404362.cos.ap-beijing.myqcloud.com/7YMhR9.jpg
 
 
 # Featured Tags
